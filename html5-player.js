@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         HTML5播放器增强插件
 // @namespace    https://greasyfork.org/users/49622
-// @homepage     http://nopast.51vip.biz:10001/
-// @version      1.1.2
+// @homepage     https://github.com/yuyang0/chrome-scripts
+// @version      1.1.3
 // @description  对HTML5播放器的功能进行增强(仅对支持HTML5视频的网站有效)，快捷键仿照Potplayer的快捷键布局，实现调节亮度，饱和度，对比度，速度等功能。
 // @author       过去终究是个回忆
 // @match        *://www.youtube.com/*
